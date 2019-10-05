@@ -17,7 +17,7 @@ Now you should be on the selection page.
 
 You can press logout if you wish, which will take you back the login screen
 
-Once on the selection page you must select one sone (I have pre download songs that should have loaded for you) and you must select one visualizer.
+Once on the selection page you must select one song (I have pre-downloaded songs that should have loaded for you) and you must select one visualizer.
 (If you want, you can download any mp3 and place it in the music directory located in "bin/debug/Music")
 
 Now that you have selected a song and visualizer you can click on the visualize button.
